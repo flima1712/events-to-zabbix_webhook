@@ -1,0 +1,7 @@
+{
+  "listenerPort": 443,
+  "logLevel": "DEBUG",
+  "SNMPHost": "10.114.34.105",
+  "SNMPPort": 162,
+  "SNMPCommunity": "public"
+}
