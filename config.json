@@ -1,7 +1,7 @@
 {
   "listenerPort": 443,
   "logLevel": "DEBUG",
-  "SNMPHost": "10.114.34.105",
+  "SNMPHost": "<your proxy or zabbix server>",
   "SNMPPort": 162,
-  "SNMPCommunity": "public"
+  "SNMPCommunity": "<community name>"
 }
